@@ -23,6 +23,6 @@ public class SpaceCompetition {
         System.out.println("Jasper and Eran will start with " + input1 + ", continue with " + input2 + ", and end with " + input3 + ".");
         //Jasper and Eran will start with parkrun, continue with swimming, and end with pole vault.
         //TODO: 6. Print the goodbye message
-        System.out.println("We were pleased to be part of your Martian competition. \nWe will come again next year!");
+        System.out.println("We were pleased to be part of your Martian competition.\nWe will come again next year!");
     }
 }
